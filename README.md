@@ -1,5 +1,11 @@
 # rabbitmq-statsd
 
+> ## Example
+
+![Alt text](/data/queues.png?raw=true "Queues keys")
+
+![Alt text](/data/stats.png?raw=true "Stats keys")
+
 > ## Configuration
 
 In the [config.json](https://github.com/lahaxearnaud/rabbitmq-statsd/blob/master/config.json) file you will find all the application configuration
