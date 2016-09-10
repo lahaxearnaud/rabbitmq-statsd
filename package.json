@@ -1,0 +1,27 @@
+{
+  "name": "rabbitmq-statsd",
+  "version": "0.1.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "app": "node run app.js"
+  },
+  "author": "LAHAXE Arnaud",
+  "repository": "lahaxearnaud/rabbitmq-statsd",
+  "homepage": "https://github.com/lahaxearnaud/rabbitmq-statsd",
+  "bugs": {
+    "url": "https://github.com/lahaxearnaud/rabbitmq-statsd/issues"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "amqp-stats": "0.0.14",
+    "statsd-client": "^0.2.2",
+    "winston": "^2.2.0"
+  },
+  "keywords": [
+    "rabbitmq",
+    "statsd",
+    "queues",
+    "monitoring"
+  ]
+}

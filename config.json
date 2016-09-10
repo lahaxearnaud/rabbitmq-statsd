@@ -1,0 +1,15 @@
+{
+	"collectInterval": 30000,
+	"amqp": {
+		"username": "AMQP_USERNAME",
+		"password": "AMQP_PASSWORD",
+		"host": "AMQP_HOSTNAME:15672",
+		"protocol": "HTTP_OR_HTTPS"
+	},
+	"statsd": {
+		"host": "STATSD_HOSTNAME",
+		"port": "8125",
+		"prefix": "STATSD_PREFIX"
+	},
+	"logPath": "rabbit.log"
+}
