@@ -2,9 +2,9 @@
 
 > ## Example
 
-![Alt text](/data/queues.png?raw=true "Queues keys")
+![Alt text](https://github.com/lahaxearnaud/rabbitmq-statsd/data/queues.png?raw=true "Queues keys")
 
-![Alt text](/data/stats.png?raw=true "Stats keys")
+![Alt text](https://github.com/lahaxearnaud/rabbitmq-statsd/data/stats.png?raw=true "Stats keys")
 
 > ## Configuration
 
