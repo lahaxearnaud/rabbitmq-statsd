@@ -128,3 +128,7 @@ Copyright © 2016 [LAHAXE Arnaud]()
 Licensed under the MIT license.
 
 ***
+
+## After coding
+
+What better way to relax, after spending hours coding, than a good [cocktail](https://cocktailand.fr) on the terrace?
